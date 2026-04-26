@@ -14,14 +14,14 @@ export default function AboutSection() {
 
   const accordionData = [
     {
-      title: "Passionate Developer",
-      content: "Saya adalah seorang Fullstack Web Developer dengan passion yang kuat dalam menciptakan solusi digital yang inovatif.",
-      content2: "Dengan pengalaman lebih dari 5 tahun, saya telah membantu berbagai klien dalam mewujudkan ide-ide mereka menjadi aplikasi web yang powerful. Saya selalu haus akan teknologi baru.",
-      content3: "Saya fokus pada performa, keamanan, dan pengalaman pengguna (UX) yang luar biasa di setiap baris kode yang saya tulis"
+      title: "Student & Athlete",
+      content: "Saya adalah seorang siswa di MAN 1 Banda Aceh yang menjalani keseharian dengan menyeimbangkan kehidupan akademik dan aktivitas yang saya nikmati.",
+      content2: "Di waktu luang, saya suka bermain game dan tidur untuk mengisi energi kembali. Selain itu, saya memiliki minat besar dalam olahraga, khususnya tenis, yang melatih disiplin, fokus, dan semangat kompetitif saya.",
+      content3: "Saya pernah meraih juara 3 tunggal dan juara 2 ganda di tingkat kabupaten, serta juara 3 di ajang Popda. Prestasi ini menunjukkan dedikasi dan konsistensi saya dalam mengembangkan kemampuan di bidang olahraga."
     },
     {
-      title: "Creative Content Creator",
-      content: "Selain coding, saya aktif berbagi pengetahuan tentang pemrograman melalui berbagai platform. Saya percaya bahwa berbagi ilmu adalah cara terbaik untuk terus belajar dan membangun komunitas yang suportif."
+      title: "Hobbies & Personal Life",
+      content: "Hobi saya adalah bermain game dan tidur, yang membantu saya menjaga keseimbangan antara kesibukan sekolah dan aktivitas pribadi. Meskipun sederhana, hal ini membuat saya tetap rileks dan siap menghadapi tantangan baru setiap hari."
     },
     // {
     //   title: "Problem Solver & Tech Enthusiast",
