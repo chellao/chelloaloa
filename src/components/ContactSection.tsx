@@ -19,19 +19,19 @@ const contactInfo = [
   {
     icon: Mail,
     label: 'Email',
-    value: 'hello@developer.com',
-    href: 'mailto:hello@developer.com',
+    value: 'student@man1bandaaceh.com',
+    href: 'mailto:student@man1bandaaceh.com',
   },
   {
     icon: Phone,
     label: 'Telepon',
-    value: '+62 812 3456 7890',
-    href: 'tel:+6281234567890',
+    value: '+62 812 0000 0000',
+    href: 'tel:+6281200000000',
   },
   {
     icon: MapPin,
     label: 'Lokasi',
-    value: 'Jakarta, Indonesia',
+    value: 'Banda Aceh, Indonesia',
     href: '#',
   },
 ];
@@ -126,12 +126,11 @@ export default function ContactSection() {
           >
             <div>
               <h3 className="font-display text-2xl font-bold mb-4">
-                Mari Berkolaborasi!
+                Mari Terhubung!
               </h3>
               <p className="text-muted-foreground leading-relaxed">
-                Punya project menarik atau ingin berkolaborasi? Jangan ragu untuk 
-                menghubungi saya. Saya selalu terbuka untuk diskusi tentang project 
-                baru, ide kreatif, atau kesempatan untuk menjadi bagian dari visi Anda.
+                Saya adalah siswa MAN 1 Banda Aceh yang aktif dalam olahraga tenis dan memiliki beberapa prestasi di tingkat daerah. 
+                Jika ingin berdiskusi, bertanya, atau sekadar berkenalan, jangan ragu untuk menghubungi saya.
               </p>
             </div>
 
